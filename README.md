@@ -21,15 +21,6 @@
 ## 🎯 **1-Click Run**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Zomato-Restaurant-Analysis/blob/main/Zomato_project.ipynb)
 
-**Click → Runs instantly!** (All charts + analysis)
-
-## 🛠️ **Local Setup**
-```bash
-git clone https://github.com/YOUR_USERNAME/Zomato-Restaurant-Analysis.git
-cd Zomato-Restaurant-Analysis
-pip install -r requirements.txt
-jupyter notebook Zomato_project.ipynb
-
 ## 📈Key Visualizations Generated
 ✅ Rating Distribution (Histogram)
 ✅ Top 10 Restaurants (Bar Chart)  
@@ -42,9 +33,19 @@ jupyter notebook Zomato_project.ipynb
 👥 Staff service = Key driver (Papiya/Pradeep)
 🍛 Biryani + Ambience = Winning combo
 
+🔗 Full Dataset (3.5MB)
+👉 [Download from OneDrive](your-drive-link)
+- Zomato-Restaurant-reviews.csv (3.5M rows)
+- Zomato-Restaurant-names-and-Metadata.csv
 
+**Click → Runs your full analysis instantly!** (No setup needed)
 
-
+## 🛠️ **Local Setup (5 Seconds)**
+```bash
+git clone https://github.com/YOUR_USERNAME/Zomato-Restaurant-Analysis.git
+cd Zomato-Restaurant-Analysis
+pip install -r requirements.txt
+jupyter notebook Zomato-Analysis.ipynb
 
  
 
