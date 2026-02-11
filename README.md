@@ -18,9 +18,6 @@
 | **Sentiment** | 0.25 (Positive) |
 | **Restaurants** | 100 |
 
-## 🎯 **1-Click Run**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Zomato-Restaurant-Analysis/blob/main/Zomato_project.ipynb)
-
 ## 📈Key Visualizations Generated
 ✅ Rating Distribution (Histogram)
 ✅ Top 10 Restaurants (Bar Chart)  
@@ -37,6 +34,9 @@
 👉 [Download from OneDrive](your-drive-link)
 - Zomato-Restaurant-reviews.csv (3.5M rows)
 - Zomato-Restaurant-names-and-Metadata.csv
+
+## 🎯 **1-Click Run**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Zomato-Restaurant-Analysis/blob/main/Zomato_project.ipynb)
 
 **Click → Runs your full analysis instantly!** (No setup needed)
 
