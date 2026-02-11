@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Zomato Gachibowli Restaurant Analysis
+# 🚀 Zomato Restaurant Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Zomato-Restaurant-Analysis/blob/main/Zomato_project.ipynb)
