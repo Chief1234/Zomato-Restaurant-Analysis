@@ -1,25 +1,35 @@
-# Zomato Restaurant Analysis 🔥
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://python.org)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Zomato-Restaurant-Analysis/blob/main/Zomato-Analysis.ipynb)
+# 🚀 Zomato Gachibowli Restaurant Analysis
 
-**3.5M+ Zomato reviews analyzed** | Sentiment Analysis | Top Gachibowli Restaurants
+[![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)](https://python.org)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Zomato-Restaurant-Analysis/blob/main/Zomato_project.ipynb)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## 📊 Live Results
-| Top Restaurant | Avg Rating | Review Count |
-|----------------|------------|--------------|
-| Beyond Flavours | 4.8⭐ | 500+ |
-| Paradise | 4.6⭐ | 300+ |
+**10K+ Reviews Analyzed** | Sentiment Analysis | Top Restaurant Rankings | Business Insights
 
-## 🚀 Quick Run (Colab 2-Min)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Zomato-Restaurant-Analysis/blob/main/Zomato-Analysis.ipynb)
+</div>
 
-## 🛠️ Local Setup
+## 📊 **Live Results**
+| Metric | Value |
+|--------|-------|
+| **Reviews** | 10,000 |
+| **Avg Rating** | 3.60⭐ |
+| **Sentiment** | 0.25 (Positive) |
+| **Restaurants** | 100 |
+
+## 🎯 **1-Click Run**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Zomato-Restaurant-Analysis/blob/main/Zomato_project.ipynb)
+
+**Click → Runs instantly!** (All charts + analysis)
+
+## 🛠️ **Local Setup**
 ```bash
-git clone https://github.com/yourusername/Zomato-Restaurant-Analysis.git
+git clone https://github.com/YOUR_USERNAME/Zomato-Restaurant-Analysis.git
 cd Zomato-Restaurant-Analysis
 pip install -r requirements.txt
-jupyter notebook Zomato-Analysis.ipynb
+jupyter notebook Zomato_project.ipynb
+
 
  
 
