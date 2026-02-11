@@ -30,6 +30,13 @@ cd Zomato-Restaurant-Analysis
 pip install -r requirements.txt
 jupyter notebook Zomato_project.ipynb
 
+## Key Visualization
+✅ Rating Distribution (Histogram)
+✅ Top 10 Restaurants (Bar Chart)  
+✅ Sentiment vs Rating (Scatter)
+✅ Most Reviewed Restaurants (Bar)
+
+
 
  
 
